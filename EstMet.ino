@@ -7,9 +7,9 @@ PROFESSOR: Julio Saracol Domingues Junior
                                                              Estação Metereológica
 */
 
-#define BLYNK_TEMPLATE_ID "TMPLSuR-uJgY"
+#define BLYNK_TEMPLATE_ID "Seu ID"
 #define BLYNK_DEVICE_NAME "Estação Meteorológica"
-#define BLYNK_AUTH_TOKEN "D7Xz1DwZ2Jf9QomG-aJv7lD9VV521jiS"
+#define BLYNK_AUTH_TOKEN "Seu token"
 #define BLYNK_PRINT Serial
 #include <SPI.h>
 #include <Ethernet.h>
